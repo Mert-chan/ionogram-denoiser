@@ -1,0 +1,9 @@
+subset,background,tuning_n,tuning_kept,tuning_partial,tuning_lost,tuning_clean,tuning_left,random_n,random_kept,random_partial,random_lost,random_clean,random_left
+Echo trace,Moderate,21,20,1,0,18,3,26,24,2,0,23,3
+Echo trace,Heavy RFI / speckle,21,15,6,0,10,11,17,9,2,6,14,3
+Echo trace,Sparse / weak echo,20,14,5,1,17,3,7,6,1,0,6,1
+Spread F,Moderate,10,9,1,0,10,0,11,10,1,0,11,0
+Spread F,Heavy RFI / speckle,3,1,1,1,2,1,5,4,0,1,4,1
+Spread F,Sparse / weak echo,7,3,4,0,7,0,5,5,0,0,5,0
+No echo,,18,0,0,0,18,0,29,0,0,0,24,5
+Total,,100,62,18,2,82,18,100,58,6,7,87,13

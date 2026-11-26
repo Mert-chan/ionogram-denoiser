@@ -1,0 +1,201 @@
+id,set,night,station,time_utc,solar_lt,file,subset,background,echo,noise
+1,tuning,,CPN,2025-03-12 04:00,10:37,raw/CPN_20250312040000.png,No echo,Moderate,,clean
+2,tuning,,CPN,2025-05-24 00:20,06:57,raw/CPN_20250524002000.png,No echo,Moderate,,clean
+3,tuning,,CPN,2025-05-29 03:55,10:32,raw/CPN_20250529035500.png,No echo,Heavy RFI / speckle,,clean
+4,tuning,,BCL,2025-03-24 13:55,20:57,raw/BCL_20250324135501.png,No echo,Heavy RFI / speckle,,clean
+5,tuning,,BCL,2025-03-25 13:55,20:57,raw/BCL_20250325135501.png,No echo,Heavy RFI / speckle,,clean
+6,tuning,,BCL,2025-04-03 20:40,03:42,raw/BCL_20250403204001.png,No echo,Heavy RFI / speckle,,clean
+7,tuning,,BCL,2025-08-23 18:20,01:22,raw/BCL_20250823182001.png,No echo,Heavy RFI / speckle,,clean
+8,tuning,,BCL,2025-09-03 13:10,20:12,raw/BCL_20250903131001.png,No echo,Heavy RFI / speckle,,clean
+9,tuning,,BCL,2025-09-03 16:35,23:37,raw/BCL_20250903163501.png,Spread F,Heavy RFI / speckle,lost,clean
+10,tuning,,BCL,2025-09-26 13:25,20:27,raw/BCL_20250926132501.png,No echo,Heavy RFI / speckle,,clean
+11,tuning,,BCL,2025-09-26 15:05,22:07,raw/BCL_20250926150501.png,No echo,Heavy RFI / speckle,,clean
+12,tuning,,CPN,2023-04-08 12:10,18:47,raw/CPN_20230408121000.png,Echo trace,Heavy RFI / speckle,partial,clean
+13,tuning,,CPN,2025-01-10 02:00,08:37,raw/CPN_20250110020000.png,Echo trace,Moderate,kept,clean
+14,tuning,,CPN,2025-02-15 03:00,09:37,raw/CPN_20250215030000.png,Echo trace,Moderate,kept,clean
+15,tuning,,CPN,2025-03-24 13:55,20:32,raw/CPN_20250324135500.png,Echo trace,Moderate,kept,clean
+16,tuning,,CPN,2025-06-18 02:00,08:37,raw/CPN_20250618020000.png,Echo trace,Moderate,kept,clean
+17,tuning,,CPN,2025-07-15 16:50,23:27,raw/CPN_20250715165000.png,Echo trace,Moderate,kept,clean
+18,tuning,,CPN,2025-07-20 02:00,08:37,raw/CPN_20250720020000.png,Echo trace,Moderate,kept,clean
+19,tuning,,CPN,2025-07-20 09:55,16:32,raw/CPN_20250720095500.png,Echo trace,Moderate,kept,noise left
+20,tuning,,CPN,2025-08-12 09:25,16:02,raw/CPN_20250812092500.png,Echo trace,Moderate,kept,clean
+21,tuning,,CPN,2025-09-03 13:10,19:47,raw/CPN_20250903131000.png,Echo trace,Moderate,kept,clean
+22,tuning,,CPN,2025-09-26 13:25,20:02,raw/CPN_20250926132500.png,Spread F,Moderate,kept,clean
+23,tuning,,CPN,2025-04-03 20:40,03:17,raw/CPN_20250403204000.png,Spread F,Moderate,kept,clean
+24,tuning,,CPN,2025-04-16 20:40,03:17,raw/CPN_20250416204000.png,Spread F,Moderate,kept,clean
+25,tuning,,CPN,2025-08-23 15:05,21:42,raw/CPN_20250823150500.png,Spread F,Moderate,kept,clean
+26,tuning,,CPN,2025-09-03 14:55,21:32,raw/CPN_20250903145500.png,Spread F,Moderate,kept,clean
+27,tuning,,BCL,2025-07-15 16:50,23:52,raw/BCL_20250715165001.png,No echo,Heavy RFI / speckle,,clean
+28,tuning,,BCL,2025-07-20 02:00,09:02,raw/BCL_20250720020001.png,Echo trace,Heavy RFI / speckle,partial,noise left
+29,tuning,,BCL,2025-08-23 15:05,22:07,raw/BCL_20250823150501.png,No echo,Heavy RFI / speckle,,clean
+30,tuning,,BCL,2025-10-14 20:20,03:22,raw/BCL_20251014202001.png,No echo,Heavy RFI / speckle,,clean
+31,tuning,,BCL,2025-10-27 12:10,19:12,raw/BCL_20251027121001.png,No echo,Heavy RFI / speckle,,clean
+32,tuning,,BCL,2025-11-04 12:25,19:27,raw/BCL_20251104122501.png,No echo,Heavy RFI / speckle,,clean
+33,tuning,,BCL,2025-11-04 15:10,22:12,raw/BCL_20251104151001.png,No echo,Heavy RFI / speckle,,clean
+34,tuning,,BCL,2025-01-10 02:00,09:02,raw/BCL_20250110020001.png,Echo trace,Heavy RFI / speckle,partial,noise left
+35,tuning,,BCL,2025-02-15 03:00,10:02,raw/BCL_20250215030001.png,Echo trace,Heavy RFI / speckle,partial,noise left
+36,tuning,,BCL,2025-03-12 04:00,11:02,raw/BCL_20250312040001.png,Echo trace,Heavy RFI / speckle,partial,noise left
+37,tuning,,BCL,2025-05-29 03:55,10:57,raw/BCL_20250529035501.png,Echo trace,Heavy RFI / speckle,kept,clean
+38,tuning,,BCL,2025-11-30 02:00,09:02,raw/BCL_20251130020001.png,Echo trace,Heavy RFI / speckle,kept,noise left
+39,tuning,,BCL,2023-04-30 18:00,01:02,raw/BCL_20230430180000.png,Echo trace,Moderate,kept,clean
+40,tuning,,BCL,2023-05-01 14:30,21:32,raw/BCL_20230501143000.png,Echo trace,Moderate,partial,clean
+41,tuning,,CPN,2023-04-30 18:25,01:02,raw/CPN_20230430182500.png,No echo,Heavy RFI / speckle,,clean
+42,tuning,,CPN,2023-05-01 14:55,21:32,raw/CPN_20230501145500.png,No echo,Heavy RFI / speckle,,clean
+43,tuning,,BCL,2025-05-24 00:20,07:22,raw/BCL_20250524002001.png,Echo trace,Heavy RFI / speckle,kept,noise left
+44,tuning,,BCL,2025-09-20 02:00,09:02,raw/BCL_20250920020001.png,Echo trace,Heavy RFI / speckle,kept,clean
+45,tuning,,CPN,2025-03-25 13:55,20:32,raw/CPN_20250325135500.png,Spread F,Moderate,kept,clean
+46,tuning,,CPN,2025-04-01 03:00,09:37,raw/CPN_20250401030000.png,Echo trace,Heavy RFI / speckle,kept,clean
+47,tuning,,CPN,2025-04-01 09:30,16:07,raw/CPN_20250401093000.png,Echo trace,Heavy RFI / speckle,kept,clean
+48,tuning,,CPN,2025-08-23 18:20,00:57,raw/CPN_20250823182000.png,Spread F,Moderate,kept,clean
+49,tuning,,CPN,2025-09-03 16:35,23:12,raw/CPN_20250903163500.png,Echo trace,Moderate,kept,clean
+50,tuning,,CPN,2025-09-20 02:00,08:37,raw/CPN_20250920020000.png,Echo trace,Moderate,kept,clean
+51,tuning,,CPN,2025-09-26 15:05,21:42,raw/CPN_20250926150500.png,Echo trace,Moderate,kept,clean
+52,tuning,,CPN,2025-10-14 20:20,02:57,raw/CPN_20251014202000.png,Echo trace,Moderate,kept,clean
+53,tuning,,CPN,2025-11-04 12:25,19:02,raw/CPN_20251104122500.png,Spread F,Moderate,kept,clean
+54,tuning,,CPN,2025-11-04 15:10,21:47,raw/CPN_20251104151000.png,Spread F,Moderate,partial,clean
+55,tuning,,CPN,2025-11-30 02:00,08:37,raw/CPN_20251130020000.png,Echo trace,Moderate,kept,clean
+56,tuning,,BCL,2023-03-06 16:20,23:22,raw/BCL_20230306162000.png,Echo trace,Heavy RFI / speckle,kept,clean
+57,tuning,,BCL,2023-04-05 17:35,00:37,raw/BCL_20230405173500.png,Echo trace,Moderate,kept,clean
+58,tuning,,BCL,2023-06-07 11:15,18:17,raw/BCL_20230607111500.png,Echo trace,Heavy RFI / speckle,kept,noise left
+59,tuning,,BCL,2024-04-19 16:15,23:17,raw/BCL_20240419161500.png,Echo trace,Moderate,kept,clean
+60,tuning,,BCL,2024-03-05 16:40,23:42,raw/BCL_20240305164000.png,Spread F,Moderate,kept,clean
+61,tuning,,BCL,2023-01-05 09:35,16:37,raw/BCL_20230105093500.png,Echo trace,Heavy RFI / speckle,kept,clean
+62,tuning,,BCL,2023-01-13 11:00,18:02,raw/BCL_20230113110000.png,Echo trace,Moderate,kept,clean
+63,tuning,,BCL,2024-01-02 18:35,01:37,raw/BCL_20240102183500.png,Echo trace,Moderate,kept,noise left
+64,tuning,,BCL,2022-10-22 15:30,22:32,raw/BCL_20221022153000.png,Spread F,Heavy RFI / speckle,kept,noise left
+65,tuning,,BCL,2023-01-01 18:10,01:12,raw/BCL_20230101181000.png,Echo trace,Heavy RFI / speckle,kept,noise left
+66,tuning,,BCL,2023-03-06 16:00,23:02,raw/BCL_20230306160000.png,Echo trace,Heavy RFI / speckle,kept,clean
+67,tuning,,BCL,2024-06-14 11:00,18:02,raw/BCL_20240614110000.png,Echo trace,Moderate,kept,noise left
+68,tuning,,BCL,2024-10-07 17:45,00:47,raw/BCL_20241007174500.png,Echo trace,Heavy RFI / speckle,kept,noise left
+69,tuning,,BCL,2024-10-12 17:05,00:07,raw/BCL_20241012170500.png,Echo trace,Heavy RFI / speckle,kept,noise left
+70,tuning,,BCL,2024-11-09 17:50,00:52,raw/BCL_20241109175000.png,Echo trace,Heavy RFI / speckle,kept,clean
+71,tuning,,CPN,2023-02-17 20:45,03:22,raw/CPN_20230217204500.png,Echo trace,Heavy RFI / speckle,partial,clean
+72,tuning,,CPN,2022-09-03 15:40,22:17,raw/CPN_20220903154000.png,Spread F,Heavy RFI / speckle,partial,clean
+73,tuning,,CPN,2023-01-05 09:35,16:12,raw/CPN_20230105093500.png,Echo trace,Heavy RFI / speckle,kept,noise left
+74,tuning,,BCL,2023-09-05 11:05,18:07,raw/BCL_20230905110500.png,Echo trace,Sparse / weak echo,kept,clean
+75,tuning,,BCL,2023-09-05 11:15,18:17,raw/BCL_20230905111500.png,Echo trace,Sparse / weak echo,kept,noise left
+76,tuning,,BCL,2023-09-05 11:25,18:27,raw/BCL_20230905112500.png,Echo trace,Sparse / weak echo,partial,clean
+77,tuning,,BCL,2023-09-05 11:30,18:32,raw/BCL_20230905113000.png,Echo trace,Sparse / weak echo,partial,clean
+78,tuning,,BCL,2023-09-05 11:40,18:42,raw/BCL_20230905114000.png,Echo trace,Sparse / weak echo,partial,clean
+79,tuning,,BCL,2023-09-05 12:25,19:27,raw/BCL_20230905122500.png,Echo trace,Sparse / weak echo,partial,clean
+80,tuning,,BCL,2023-09-05 12:40,19:42,raw/BCL_20230905124000.png,Spread F,Sparse / weak echo,kept,clean
+81,tuning,,BCL,2023-09-05 12:45,19:47,raw/BCL_20230905124500.png,Echo trace,Sparse / weak echo,kept,clean
+82,tuning,,BCL,2023-09-05 12:55,19:57,raw/BCL_20230905125500.png,Echo trace,Sparse / weak echo,kept,clean
+83,tuning,,BCL,2023-09-05 14:30,21:32,raw/BCL_20230905143000.png,Spread F,Sparse / weak echo,kept,clean
+84,tuning,,BCL,2023-09-05 14:50,21:52,raw/BCL_20230905145000.png,Spread F,Sparse / weak echo,partial,clean
+85,tuning,,BCL,2023-09-05 15:55,22:57,raw/BCL_20230905155500.png,Spread F,Sparse / weak echo,partial,clean
+86,tuning,,BCL,2023-09-05 17:05,00:07,raw/BCL_20230905170500.png,Spread F,Sparse / weak echo,kept,clean
+87,tuning,,BCL,2023-09-05 17:10,00:12,raw/BCL_20230905171000.png,Spread F,Sparse / weak echo,partial,clean
+88,tuning,,BCL,2023-09-05 17:55,00:57,raw/BCL_20230905175500.png,Spread F,Sparse / weak echo,partial,clean
+89,tuning,,BCL,2023-08-14 22:50,05:52,raw/BCL_20230814225000.png,Echo trace,Sparse / weak echo,kept,noise left
+90,tuning,,BCL,2023-08-04 22:45,05:47,raw/BCL_20230804224500.png,Echo trace,Sparse / weak echo,lost,clean
+91,tuning,,BCL,2024-05-06 19:55,02:57,raw/BCL_20240506195500.png,Echo trace,Sparse / weak echo,kept,noise left
+92,tuning,,BCL,2023-07-24 22:25,05:27,raw/BCL_20230724222500.png,Echo trace,Sparse / weak echo,kept,clean
+93,tuning,,BCL,2023-07-08 21:15,04:17,raw/BCL_20230708211500.png,Echo trace,Sparse / weak echo,kept,clean
+94,tuning,,BCL,2023-10-10 21:40,04:42,raw/BCL_20231010214000.png,Echo trace,Sparse / weak echo,kept,clean
+95,tuning,,BCL,2023-12-15 22:40,05:42,raw/BCL_20231215224000.png,Echo trace,Sparse / weak echo,kept,clean
+96,tuning,,BCL,2023-02-26 21:15,04:17,raw/BCL_20230226211500.png,Echo trace,Sparse / weak echo,kept,clean
+97,tuning,,BCL,2023-10-16 19:40,02:42,raw/BCL_20231016194000.png,Echo trace,Sparse / weak echo,kept,clean
+98,tuning,,BCL,2023-12-17 19:15,02:17,raw/BCL_20231217191500.png,Echo trace,Sparse / weak echo,kept,clean
+99,tuning,,BCL,2023-01-27 20:55,03:57,raw/BCL_20230127205500.png,Echo trace,Sparse / weak echo,kept,clean
+100,tuning,,BCL,2023-02-20 14:30,21:32,raw/BCL_20230220143000.png,Echo trace,Sparse / weak echo,partial,clean
+101,random,S4 event night,BCL,2022-10-05 20:40,03:42,raw/BCL_20221005204000.png,Echo trace,Heavy RFI / speckle,kept,clean
+102,random,S4 event night,BCL,2022-10-12 14:40,21:42,raw/BCL_20221012144000.png,Spread F,Heavy RFI / speckle,kept,clean
+103,random,any night,BCL,2022-12-04 16:55,23:57,raw/BCL_20221204165500.png,Echo trace,Heavy RFI / speckle,kept,clean
+104,random,any night,BCL,2022-12-19 11:35,18:37,raw/BCL_20221219113500.png,Echo trace,Moderate,kept,clean
+105,random,any night,BCL,2023-01-14 13:25,20:27,raw/BCL_20230114132500.png,Echo trace,Sparse / weak echo,partial,clean
+106,random,any night,BCL,2023-02-14 12:55,19:57,raw/BCL_20230214125500.png,No echo,Moderate,,clean
+107,random,S4 event night,BCL,2023-02-24 13:45,20:47,raw/BCL_20230224134500.png,No echo,Moderate,,clean
+108,random,S4 event night,BCL,2023-03-10 16:30,23:32,raw/BCL_20230310163000.png,Spread F,Heavy RFI / speckle,kept,clean
+109,random,S4 event night,BCL,2023-03-20 21:05,04:07,raw/BCL_20230320210500.png,Echo trace,Moderate,kept,clean
+110,random,S4 event night,BCL,2023-04-16 11:40,18:42,raw/BCL_20230416114000.png,Echo trace,Sparse / weak echo,kept,noise left
+111,random,any night,BCL,2023-06-05 15:10,22:12,raw/BCL_20230605151000.png,Echo trace,Heavy RFI / speckle,kept,clean
+112,random,S4 event night,BCL,2023-07-25 19:25,02:27,raw/BCL_20230725192500.png,Spread F,Sparse / weak echo,kept,clean
+113,random,S4 event night,BCL,2023-08-02 17:55,00:57,raw/BCL_20230802175500.png,Spread F,Sparse / weak echo,kept,clean
+114,random,S4 event night,BCL,2023-08-20 13:15,20:17,raw/BCL_20230820131500.png,Echo trace,Sparse / weak echo,kept,clean
+115,random,S4 event night,BCL,2024-01-09 18:30,01:32,raw/BCL_20240109183000.png,Echo trace,Moderate,kept,clean
+116,random,S4 event night,BCL,2024-03-01 12:30,19:32,raw/BCL_20240301123000.png,Echo trace,Sparse / weak echo,kept,clean
+117,random,S4 event night,BCL,2024-03-19 13:30,20:32,raw/BCL_20240319133000.png,No echo,Moderate,,clean
+118,random,S4 event night,BCL,2024-05-20 14:40,21:42,raw/BCL_20240520144000.png,Echo trace,Moderate,kept,noise left
+119,random,any night,BCL,2024-08-26 21:25,04:27,raw/BCL_20240826212500.png,No echo,Heavy RFI / speckle,,clean
+120,random,S4 event night,BCL,2024-08-30 13:00,20:02,raw/BCL_20240830130000.png,Echo trace,Heavy RFI / speckle,lost,clean
+121,random,S4 event night,BCL,2024-09-01 13:40,20:42,raw/BCL_20240901134000.png,No echo,Heavy RFI / speckle,,clean
+122,random,S4 event night,BCL,2024-09-07 20:35,03:37,raw/BCL_20240907203500.png,No echo,Heavy RFI / speckle,,clean
+123,random,S4 event night,BCL,2024-09-18 16:00,23:02,raw/BCL_20240918160000.png,No echo,Heavy RFI / speckle,,noise left
+124,random,S4 event night,BCL,2024-10-10 19:00,02:02,raw/BCL_20241010190000.png,No echo,Heavy RFI / speckle,,clean
+125,random,S4 event night,BCL,2024-11-10 12:30,19:32,raw/BCL_20241110123000.png,Spread F,Heavy RFI / speckle,lost,noise left
+126,random,any night,BCL,2024-12-25 19:20,02:22,raw/BCL_20241225192001.png,No echo,Heavy RFI / speckle,,noise left
+127,random,any night,BCL,2025-01-01 17:15,00:17,raw/BCL_20250101171501.png,No echo,Heavy RFI / speckle,,noise left
+128,random,any night,BCL,2025-05-10 17:35,00:37,raw/BCL_20250510173501.png,Echo trace,Heavy RFI / speckle,partial,noise left
+129,random,any night,BCL,2025-05-13 14:40,21:42,raw/BCL_20250513144001.png,Echo trace,Heavy RFI / speckle,lost,noise left
+130,random,any night,BCL,2025-05-30 16:15,23:17,raw/BCL_20250530161501.png,Echo trace,Heavy RFI / speckle,lost,clean
+131,random,any night,BCL,2025-06-04 11:45,18:47,raw/BCL_20250604114501.png,Echo trace,Heavy RFI / speckle,partial,clean
+132,random,any night,BCL,2025-06-24 22:10,05:12,raw/BCL_20250624221001.png,No echo,Heavy RFI / speckle,,clean
+133,random,any night,BCL,2025-06-27 19:45,02:47,raw/BCL_20250627194501.png,Echo trace,Heavy RFI / speckle,lost,clean
+134,random,any night,BCL,2025-07-08 20:40,03:42,raw/BCL_20250708204001.png,No echo,Heavy RFI / speckle,,clean
+135,random,S4 event night,BCL,2025-08-25 14:45,21:47,raw/BCL_20250825144501.png,No echo,Heavy RFI / speckle,,clean
+136,random,any night,BCL,2025-09-25 20:00,03:02,raw/BCL_20250925200001.png,No echo,Heavy RFI / speckle,,clean
+137,random,any night,BCL,2025-10-24 21:20,04:22,raw/BCL_20251024212001.png,No echo,Heavy RFI / speckle,,clean
+138,random,any night,BCL,2025-11-26 22:30,05:32,raw/BCL_20251126223001.png,No echo,Heavy RFI / speckle,,noise left
+139,random,any night,BCL,2025-12-01 20:00,03:02,raw/BCL_20251201200001.png,No echo,Heavy RFI / speckle,,clean
+140,random,any night,BCL,2025-12-24 14:40,21:42,raw/BCL_20251224144001.png,No echo,Heavy RFI / speckle,,clean
+141,random,any night,BCL,2026-05-31 11:05,18:07,raw/BCL_20260531110501.png,Echo trace,Heavy RFI / speckle,lost,clean
+142,random,any night,CPN,2020-01-06 22:05,04:42,raw/CPN_20200106220500.png,No echo,Moderate,,noise left
+143,random,any night,CPN,2020-02-08 13:00,19:37,raw/CPN_20200208130000.png,Echo trace,Heavy RFI / speckle,kept,clean
+144,random,any night,CPN,2020-02-18 19:55,02:32,raw/CPN_20200218195500.png,Echo trace,Heavy RFI / speckle,lost,clean
+145,random,any night,CPN,2020-04-23 13:25,20:02,raw/CPN_20200423132500.png,Echo trace,Moderate,partial,clean
+146,random,any night,CPN,2020-06-21 19:25,02:02,raw/CPN_20200621192500.png,No echo,Moderate,,clean
+147,random,any night,CPN,2020-06-25 20:40,03:17,raw/CPN_20200625204000.png,No echo,Moderate,,clean
+148,random,any night,CPN,2020-09-06 20:35,03:12,raw/CPN_20200906203500.png,No echo,Moderate,,clean
+149,random,any night,CPN,2020-09-15 11:35,18:12,raw/CPN_20200915113500.png,Echo trace,Sparse / weak echo,kept,clean
+150,random,any night,CPN,2020-10-13 13:15,19:52,raw/CPN_20201013131500.png,No echo,Moderate,,clean
+151,random,any night,CPN,2020-11-26 12:50,19:27,raw/CPN_20201126125000.png,Echo trace,Moderate,kept,clean
+152,random,any night,CPN,2021-02-17 11:40,18:17,raw/CPN_20210217114000.png,No echo,Moderate,,clean
+153,random,S4 event night,CPN,2022-10-06 21:40,04:17,raw/CPN_20221006214000.png,No echo,Heavy RFI / speckle,,clean
+154,random,S4 event night,CPN,2022-10-08 15:35,22:12,raw/CPN_20221008153500.png,Echo trace,Heavy RFI / speckle,kept,clean
+155,random,S4 event night,CPN,2022-10-27 22:35,05:12,raw/CPN_20221027223500.png,Echo trace,Moderate,kept,noise left
+156,random,any night,CPN,2022-12-25 16:30,23:07,raw/CPN_20221225163000.png,Echo trace,Heavy RFI / speckle,kept,clean
+157,random,S4 event night,CPN,2023-02-13 20:35,03:12,raw/CPN_20230213203500.png,Echo trace,Heavy RFI / speckle,kept,noise left
+158,random,S4 event night,CPN,2023-04-10 19:45,02:22,raw/CPN_20230410194500.png,Echo trace,Heavy RFI / speckle,kept,clean
+159,random,S4 event night,CPN,2023-09-20 15:35,22:12,raw/CPN_20230920153500.png,Echo trace,Moderate,kept,clean
+160,random,S4 event night,CPN,2023-10-17 22:40,05:17,raw/CPN_20231017224000.png,Echo trace,Moderate,kept,clean
+161,random,S4 event night,CPN,2023-11-10 17:35,00:12,raw/CPN_20231110173500.png,Spread F,Moderate,kept,clean
+162,random,any night,CPN,2024-01-04 12:00,18:37,raw/CPN_20240104120000.png,Echo trace,Moderate,kept,clean
+163,random,S4 event night,CPN,2024-02-14 20:05,02:42,raw/CPN_20240214200500.png,Spread F,Heavy RFI / speckle,kept,clean
+164,random,S4 event night,CPN,2024-02-21 16:25,23:02,raw/CPN_20240221162500.png,Spread F,Moderate,partial,clean
+165,random,S4 event night,CPN,2024-03-29 21:45,04:22,raw/CPN_20240329214500.png,Echo trace,Moderate,kept,clean
+166,random,any night,CPN,2024-04-06 18:20,00:57,raw/CPN_20240406182000.png,Echo trace,Moderate,kept,clean
+167,random,any night,CPN,2024-04-15 11:55,18:32,raw/CPN_20240415115500.png,Echo trace,Moderate,partial,clean
+168,random,S4 event night,CPN,2024-04-25 13:55,20:32,raw/CPN_20240425135500.png,Spread F,Moderate,kept,clean
+169,random,S4 event night,CPN,2024-05-19 22:10,04:47,raw/CPN_20240519221000.png,Echo trace,Moderate,kept,clean
+170,random,any night,CPN,2024-06-24 16:45,23:22,raw/CPN_20240624164500.png,Spread F,Moderate,kept,clean
+171,random,S4 event night,CPN,2024-06-30 13:55,20:32,raw/CPN_20240630135500.png,Echo trace,Moderate,kept,clean
+172,random,S4 event night,CPN,2024-08-06 22:05,04:42,raw/CPN_20240806220500.png,Spread F,Moderate,kept,clean
+173,random,S4 event night,CPN,2024-08-15 20:55,03:32,raw/CPN_20240815205500.png,Echo trace,Moderate,kept,clean
+174,random,any night,CPN,2024-08-21 16:00,22:37,raw/CPN_20240821160000.png,Spread F,Moderate,kept,clean
+175,random,S4 event night,CPN,2024-09-01 21:05,03:42,raw/CPN_20240901210500.png,Echo trace,Heavy RFI / speckle,kept,clean
+176,random,S4 event night,CPN,2024-09-01 21:30,04:07,raw/CPN_20240901213000.png,Echo trace,Moderate,kept,clean
+177,random,S4 event night,CPN,2024-09-20 22:45,05:22,raw/CPN_20240920224500.png,Echo trace,Moderate,kept,clean
+178,random,S4 event night,CPN,2024-09-22 20:55,03:32,raw/CPN_20240922205500.png,Spread F,Heavy RFI / speckle,kept,clean
+179,random,any night,CPN,2024-10-25 18:10,00:47,raw/CPN_20241025181000.png,Spread F,Moderate,kept,clean
+180,random,any night,CPN,2024-11-03 22:10,04:47,raw/CPN_20241103221000.png,Echo trace,Moderate,kept,clean
+181,random,any night,CPN,2025-01-22 14:25,21:02,raw/CPN_20250122142500.png,Spread F,Sparse / weak echo,kept,clean
+182,random,any night,CPN,2025-03-06 14:45,21:22,raw/CPN_20250306144500.png,No echo,Moderate,,clean
+183,random,any night,CPN,2025-03-30 19:40,02:17,raw/CPN_20250330194000.png,Spread F,Moderate,kept,clean
+184,random,S4 event night,CPN,2025-04-18 17:50,00:27,raw/CPN_20250418175000.png,Spread F,Moderate,kept,clean
+185,random,S4 event night,CPN,2025-04-26 21:45,04:22,raw/CPN_20250426214500.png,Spread F,Moderate,kept,clean
+186,random,any night,CPN,2025-05-27 14:50,21:27,raw/CPN_20250527145000.png,No echo,Moderate,,clean
+187,random,any night,CPN,2025-06-03 12:10,18:47,raw/CPN_20250603121000.png,No echo,Moderate,,clean
+188,random,any night,CPN,2025-08-06 21:50,04:27,raw/CPN_20250806215000.png,Echo trace,Moderate,kept,clean
+189,random,S4 event night,CPN,2025-08-18 18:55,01:32,raw/CPN_20250818185500.png,Echo trace,Moderate,kept,clean
+190,random,any night,CPN,2025-08-20 22:25,05:02,raw/CPN_20250820222500.png,No echo,Moderate,,clean
+191,random,S4 event night,CPN,2025-08-22 13:45,20:22,raw/CPN_20250822134500.png,Echo trace,Moderate,kept,clean
+192,random,S4 event night,CPN,2025-08-24 16:15,22:52,raw/CPN_20250824161500.png,Echo trace,Moderate,kept,clean
+193,random,any night,CPN,2025-08-25 20:25,03:02,raw/CPN_20250825202500.png,Spread F,Moderate,kept,clean
+194,random,S4 event night,CPN,2025-08-29 13:00,19:37,raw/CPN_20250829130000.png,Echo trace,Moderate,kept,clean
+195,random,S4 event night,CPN,2025-08-29 19:05,01:42,raw/CPN_20250829190500.png,Echo trace,Moderate,kept,clean
+196,random,S4 event night,CPN,2025-09-09 17:25,00:02,raw/CPN_20250909172500.png,Echo trace,Moderate,kept,noise left
+197,random,S4 event night,CPN,2025-10-21 19:25,02:02,raw/CPN_20251021192500.png,Echo trace,Sparse / weak echo,kept,clean
+198,random,any night,CPN,2025-11-26 20:55,03:32,raw/CPN_20251126205500.png,Echo trace,Sparse / weak echo,kept,clean
+199,random,any night,CPN,2025-12-30 15:00,21:37,raw/CPN_20251230150000.png,Spread F,Sparse / weak echo,kept,clean
+200,random,S4 event night,CPN,2026-03-04 16:45,23:22,raw/CPN_20260304164500.png,Spread F,Sparse / weak echo,kept,clean
